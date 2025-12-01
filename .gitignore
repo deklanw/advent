@@ -1,0 +1,7 @@
+**/.venv
+**/inputs
+**/.ipynb_checkpoints
+
+**/*.ttf
+**/*.graphml
+**/*.csv
